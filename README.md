@@ -17,7 +17,6 @@
       - Windows Forms: Framework for creating Windows desktop applications.
       - .NET Framework: Development platform for creating Windows applications.
       - Visual Studio: IDE used for application development.
-      - SQL Server: Relational database management system for data management.
       
 # Getting Started
     To use ParrotMentor:
