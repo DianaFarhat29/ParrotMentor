@@ -1,0 +1,102 @@
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.exe
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.exe.config
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.exe
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.pdb
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.AssemblyReference.cache
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form1.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form2.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form3.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form4.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form5.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form6.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form7.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form8.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Properties.Resources.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.GenerateResource.cache
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.CoreCompileInputs.cache
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.exe
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.pdb
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.exe.config
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.exe
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.pdb
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.AssemblyReference.cache
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form1.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form2.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form3.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form4.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form5.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form6.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form7.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form8.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Properties.Resources.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.GenerateResource.cache
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.exe
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.pdb
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.exe.config
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.exe
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.pdb
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.AssemblyReference.cache
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form1.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form2.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form3.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form4.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form5.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form6.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form7.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form8.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Properties.Resources.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.GenerateResource.cache
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.CoreCompileInputs.cache
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.exe
+C:\Users\Diana\OneDrive\Documents\Etape 3\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.pdb
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.exe.config
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.pdb
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.AssemblyReference.cache
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form1.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form2.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form3.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form4.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form5.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form6.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form7.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form8.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Properties.Resources.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.GenerateResource.cache
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.exe
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.pdb
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.exe.config
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.exe
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.pdb
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.AssemblyReference.cache
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form1.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form2.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form3.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form4.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form5.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form6.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form7.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form8.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Properties.Resources.resources
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.GenerateResource.cache
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.CoreCompileInputs.cache
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.exe
+C:\Users\Diana\OneDrive\Documents\Etape 3\Interface\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.pdb
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.exe.config
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.exe
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\bin\Debug\PROJET_FINAL_DIANA_F.pdb
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.AssemblyReference.cache
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form1.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form2.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form3.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form4.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form5.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form6.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form7.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Form8.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.Properties.Resources.resources
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.GenerateResource.cache
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.exe
+C:\Users\Diana\Documents\Rosemont\Etape3\Interface\PROJET_FINAL_DIANA_F (1)\PROJET_FINAL_DIANA_F\PROJET_FINAL_DIANA_F\obj\Debug\PROJET_FINAL_DIANA_F.pdb
