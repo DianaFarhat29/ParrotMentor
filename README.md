@@ -7,7 +7,7 @@
       - Student Management: Add, edit, and delete student records, managing their personal and academic information.
       - Program Management: Administer various educational programs, including adding, updating, or removing programs.
       - Dynamic Display: Utilizes DataGridView for clear presentation and easy management of student and program data.
-      - User Authentication: Integrates a login system to secure access and data management.
+      - User Authentication: Integrates a login system to secure access.
       - Responsive Design: Designed to offer a consistent user experience across various devices and screen sizes.
       
 # Technologies Used
